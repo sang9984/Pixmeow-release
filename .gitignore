@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+._*
+
+# Local-only working files
+*.dmg
+*.zip
+*.app
+draft/
+private/
