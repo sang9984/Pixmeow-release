@@ -8,3 +8,6 @@
 *.app
 draft/
 private/
+
+# Demo build is distributed via the repo
+!Roamie_demo.dmg
