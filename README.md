@@ -21,11 +21,13 @@ Roamie is a desktop pet for macOS. A pixel-art cat lives on your screen — it w
 
 ## Download
 
-Get the latest version from the [Releases page](https://github.com/sang9984/Roamie-release/releases).
+This repository hosts the **demo build** of Roamie. The full **Pro version** will be released on the Mac App Store.
 
-1. Download `Roamie-x.y.z.dmg`
+1. Download [`Roamie_demo.dmg`](https://github.com/sang9984/Roamie-release/raw/main/Roamie_demo.dmg)
 2. Open the DMG and drag Roamie into your Applications folder
 3. Launch Roamie — a cat will appear on your screen
+
+> The Pro version, with all cat variants and the full feature set, is coming soon to the Mac App Store.
 
 ## License
 
