@@ -4,11 +4,11 @@
 
 ## Summary
 
-Roamie does not collect, store, transmit, or share any personal data. Everything you do in Roamie stays on your Mac.
+Pixmeow does not collect, store, transmit, or share any personal data. Everything you do in Pixmeow stays on your Mac.
 
 ## Data Collection
 
-Roamie does **not** collect any of the following:
+Pixmeow does **not** collect any of the following:
 - Personal information (name, email, phone, address)
 - Location data
 - Usage analytics or telemetry
@@ -18,7 +18,7 @@ Roamie does **not** collect any of the following:
 
 ## Local Data
 
-Roamie stores the following data **locally on your device only**:
+Pixmeow stores the following data **locally on your device only**:
 - Your memos and reminder times
 - App preferences (selected cat variant, language, window behavior)
 - Cat vital state (fullness, fatigue, stress)
@@ -27,7 +27,7 @@ This data never leaves your Mac. There is no cloud sync, no backend server, no t
 
 ## Permissions
 
-Roamie may request the following macOS permissions:
+Pixmeow may request the following macOS permissions:
 
 - **Input Monitoring**: Used **only** to detect your cursor's screen position so the cat can react to mouse proximity (e.g., look toward the cursor). No keystrokes, mouse clicks, or input content are accessed, recorded, stored, or transmitted. This permission is requested only when cursor reactions are enabled in settings.
 
@@ -35,11 +35,11 @@ Roamie may request the following macOS permissions:
 
 ## Third-Party Services
 
-Roamie does **not** use any third-party SDKs, analytics frameworks, advertising networks, or backend services.
+Pixmeow does **not** use any third-party SDKs, analytics frameworks, advertising networks, or backend services.
 
 ## Children's Privacy
 
-Roamie does not knowingly collect any data from anyone, including children. The app is rated 4+ and contains no objectionable content.
+Pixmeow does not knowingly collect any data from anyone, including children. The app is rated 4+ and contains no objectionable content.
 
 ## Changes to This Policy
 
@@ -48,8 +48,8 @@ If this policy changes, the updated version will be posted at the same URL with 
 ## Contact
 
 For questions about this Privacy Policy, please open an issue at:
-https://github.com/sang9984/Roamie-release/issues
+https://github.com/sang9984/Pixmeow-release/issues
 
 ---
 
-© 2026 Roamie
+© 2026 Pixmeow

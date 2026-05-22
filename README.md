@@ -1,8 +1,8 @@
-# Roamie
+# Pixmeow
 
 > A pixel cat that roams freely on your macOS desktop.
 
-Roamie is a desktop pet for macOS. A pixel-art cat lives on your screen — it walks, sleeps, eats, plays, and reacts to you. Inspired by the Shimeji tradition.
+Pixmeow is a desktop pet for macOS. A pixel-art cat lives on your screen — it walks, sleeps, eats, plays, and reacts to you. Inspired by the Shimeji tradition.
 
 ## Features
 
@@ -21,17 +21,17 @@ Roamie is a desktop pet for macOS. A pixel-art cat lives on your screen — it w
 
 ## Download
 
-This repository hosts the **demo build** of Roamie. The full **Pro version** will be released on the Mac App Store.
+This repository hosts the **demo build** of Pixmeow. The full **Pro version** will be released on the Mac App Store.
 
-1. Download [`Roamie_demo.dmg`](https://github.com/sang9984/Roamie-release/raw/main/Roamie_demo.dmg)
-2. Open the DMG and drag Roamie into your Applications folder
-3. Launch Roamie — a cat will appear on your screen
+1. Download [`Pixmeow_demo.dmg`](https://github.com/sang9984/Pixmeow-release/raw/main/Pixmeow_demo.dmg)
+2. Open the DMG and drag Pixmeow into your Applications folder
+3. Launch Pixmeow — a cat will appear on your screen
 
 > The Pro version, with all cat variants and the full feature set, is coming soon to the Mac App Store.
 
 ## License
 
-See [LICENSE](LICENSE) for end-user terms. The Roamie source code is closed-source; this repository is for binary distribution only.
+See [LICENSE](LICENSE) for end-user terms. The Pixmeow source code is closed-source; this repository is for binary distribution only.
 
 ## Credits
 
